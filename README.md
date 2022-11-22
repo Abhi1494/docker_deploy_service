@@ -56,6 +56,6 @@ after successfully running of docker image
 run below url in your browser
 <docker_ip>:<port>/<endpoint>
 
-192.168.99.100:9090/meassage
+http://192.168.99.100:9090/api/docker/deploy
 
 
